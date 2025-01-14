@@ -1,0 +1,9 @@
+# ignore image files
+eye-images
+images.zip
+
+# ignore the virtual environment
+venv
+
+# ignore document files
+assessment.pdf
