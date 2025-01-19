@@ -1,5 +1,5 @@
 # ignore image files
-eye-images
+data
 images.zip
 
 # ignore the virtual environment
@@ -8,3 +8,5 @@ venv
 # ignore document files
 assessment.pdf
 Deep learning-enhanced diabetic retinopathy image classification.pdf
+Records.docx
+documents
